@@ -3,7 +3,6 @@ layout: layouts/post.njk
 title: Hajj Memories
 date: 2017-09-04T21:00:00.000Z
 tags:
-  - post
   - hajj
   - spirituality
   - ""
