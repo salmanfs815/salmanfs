@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Nomad Rover
 date: 2020-01-02T07:43:53.017Z
 tags:
-  - project
+  - projects
   - hackathon
 ---
 This was a hackathon project for Mission Hacks 2018.
