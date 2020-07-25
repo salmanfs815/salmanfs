@@ -6,12 +6,21 @@
       "external": false
     },
     {
+      "url": "/tags/projects/",
+      "text": "Projects"
+    },
+    {
       "text": "GitHub",
       "url": "https://github.com/salmanfs815",
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/salman-s/",
+      "external": true
+    },
+    {
+      "text": "Contact",
       "url": "/contact",
       "external": false
     }
