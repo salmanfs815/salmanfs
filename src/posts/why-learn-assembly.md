@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Why Learn Assembly?
-socialImage: /images/c-systems-programming.png
+socialImage: ""
 date: 2017-10-18T21:06:40.378Z
 tags:
   - programming
@@ -11,6 +11,8 @@ Assembly language? Who the heck wants to code in assembly language??
 I'll say this much: it's not for the faint of heart.
 
 Some people have similar thoughts of futility regarding C but the truth is that it's still very important.
+
+![C for Systems Programming](/images/c-systems-programming.png)
 
 Assembly is very relevant in systems programming. It's as low level as a sane man can program. If you have ever programmed in machine code, you deserve a gold trophy! (I'm not even going to qualify that statement by saying the code should've been useful as long as you understood what you wrote.)
 
@@ -26,4 +28,4 @@ And, for the record, true programmers code low level.
 
 ![XKCD: Real Programmers](https://imgs.xkcd.com/comics/real_programmers.png)
 
-_(Credit: xkcd)_
+*(Credit: xkcd)*
