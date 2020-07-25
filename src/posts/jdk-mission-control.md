@@ -4,6 +4,7 @@ title: JDK Mission Control
 date: 2020-01-02T07:42:10.023Z
 tags:
   - work
+  - projects
   - open-source
   - java
   - redhat
