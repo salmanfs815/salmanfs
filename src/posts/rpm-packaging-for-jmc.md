@@ -4,7 +4,7 @@ title: RPM Packaging for JMC
 date: 2020-01-02T07:47:28.143Z
 tags:
   - work
-  - project
+  - projects
   - open-source
   - redhat
   - java
