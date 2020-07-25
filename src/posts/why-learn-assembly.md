@@ -12,7 +12,7 @@ I'll say this much: it's not for the faint of heart.
 
 Some people have similar thoughts of futility regarding C but the truth is that it's still very important.
 
-<img src="/images/c-systems-programming.png" alt="C for Systems Programming" height="700"/>
+<img src="/images/c-systems-programming.png" alt="C for Systems Programming" height="700px"/>
 
 Assembly is very relevant in systems programming. It's as low level as a sane man can program. If you have ever programmed in machine code, you deserve a gold trophy! (I'm not even going to qualify that statement by saying the code should've been useful as long as you understood what you wrote.)
 
