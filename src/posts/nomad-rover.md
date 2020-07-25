@@ -5,6 +5,9 @@ date: 2020-01-02T07:43:53.017Z
 tags:
   - projects
   - hackathon
+  - python
+  - nodejs
+  - raspberry-pi
 ---
 This was a hackathon project for Mission Hacks 2018.
 The theme was to create something that can be used by a hypothetical group of colonizers to
