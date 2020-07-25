@@ -5,6 +5,7 @@ date: 2017-09-07T21:03:38.857Z
 tags:
   - work
   - teaching
+  - programming
 ---
 This semester I was offered a teaching assistant position for CMPT 295 Introduction to Computer Systems. When I got the news, I was really excited because when I was applying for the position it felt like a completely useless attempt (like many others). But I still went through with it, mostly because it was a no-BS application (read: no cover letter required).
 
