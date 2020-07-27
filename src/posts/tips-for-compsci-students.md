@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Tips for CompSci Students
-date: 2020-07-27T22:25:11.370Z
+date: 2020-03-01T23:25:11.370Z
 tags:
   - tips
   - school
