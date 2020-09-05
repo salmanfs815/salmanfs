@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Maven HelloWorld - Create, Compile and Execute a Java Maven Project
 metaTitle: Maven HelloWorld
 metaDesc: Create, Compile and Execute a Java Maven Project
-date: 2020-09-05T02:49:43.337Z
+date: 2018-09-01T02:49:43.337Z
 tags:
   - java
   - maven
