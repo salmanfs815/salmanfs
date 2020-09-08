@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Tips for CompSci Students
+title: Tips for CS Students
 date: 2020-03-01T23:25:11.370Z
 tags:
   - tips
