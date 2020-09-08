@@ -10,7 +10,7 @@ tags:
   - java
   - jmc
 ---
-When JMC was open-sourced, one of the main tasks for our team at Red Hat was to make it widely available to our developer community.
+When JDK Mission Control (JMC) was open-sourced, one of the main tasks for our team at Red Hat was to make it widely available to our developer community.
 This meant packaging the application for Fedora.
 
 Fedora is a distribution of Linux sponsored by Red Hat.
