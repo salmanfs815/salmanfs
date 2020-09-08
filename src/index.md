@@ -6,4 +6,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-Feel free to peruse around my random thoughts...
+I write about programming, projects I've been working on, Islam, and other random thoughts that cross my mind.
